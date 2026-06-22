@@ -2,7 +2,7 @@ _# AI Research Assistant Using Gemini and Tavily
 
 ## Overview
 
-AI Research Assistant is a Python-based application that combines the power of Google's Gemini AI and Tavily Search API to perform intelligent web research and generate concise summaries.
+AI Research Assistant is a Python-based application that combines the power of Google's Gemini AI and Tavily Search API to perform intelligent web research and generate concise summaries
 
 The assistant searches the web for relevant information and uses Gemini to analyze and present the results in a user-friendly format.
 
